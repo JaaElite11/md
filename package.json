@@ -1,7 +1,7 @@
 {
   "name": "hinata-hyuga",
   "version": "1.0.0",
-  "description": "Simple whatsapp bot with multi device.",
+  "description": "Update Vander MD",
   "main": "index.js",
   "directories": {
     "lib": "lib"
